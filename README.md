@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel + Livewire Starter Kit
 
 ## Introduction
@@ -23,3 +24,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 ## License
 
 The Laravel + Livewire starter kit is open-sourced software licensed under the MIT license.
+=======
+# laravel_Back
+php test task
+>>>>>>> bc03e336a413f0ed75e167577d0cb6e9732642b7
